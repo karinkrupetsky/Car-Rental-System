@@ -1,12 +1,15 @@
 # Car Rental Desktop Application
 
-Developed using Java in an Eclipse environment.
+A Desktop application for manage system of renting vehicles.
 
+Developed using Java in an Eclipse environment.
 SQLite was used for databases.
+JUnit was used for system tests.
+Swing was used for UI.
+Included design patterns: Observer, Singleton, Factory and MVC architecture.
 
 The project included development specification and prerequisites, design and product testing.
 
-Included: Observer design templates, Singleton, Factory and MVC architecture.
 
 ## Screenshots:
 ![Login](https://github.com/eliadgavri/CarRental/raw/master/ScreenShots/Login.png)
